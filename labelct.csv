@@ -1,0 +1,61 @@
+label, label_count
+Fixed-wing Aircraft,74
+Small Aircraft,368
+Cargo Plane,718
+Helicopter,71
+Passenger Vehicle,2954
+Small Car,211664
+Bus,6975
+Pickup Truck,1103
+Utility Truck,3639
+Truck,12189
+Cargo Truck,5899
+Truck w/Box,3653
+Truck Tractor,862
+Trailer,4103
+Truck w/Flatbed,897
+Truck w/Liquid,149
+Crane Truck,174
+Railway Vehicle,17
+Passenger Car,1631
+Cargo Car,1851
+Flat Car,125
+Tank car,122
+Locomotive,124
+Maritime Vessel,689
+Motorboat,1463
+Sailboat,703
+Tugboat,227
+Barge,192
+Fishing Vessel,799
+Ferry,203
+Yacht,450
+Container Ship,332
+Oil Tanker,83
+Engineering Vehicle,205
+Tower crane,156
+Container Crane,194
+Reach Stacker,70
+Straddle Carrier,64
+Mobile Crane,338
+Dump Truck,1358
+Haul Truck,338
+Scraper/Tractor,78
+Front loader/Bulldozer,630
+Excavator,846
+Cement Mixer,287
+Ground Grader,83
+Hut/Tent,712
+Shed,1191
+Building,316795
+Aircraft Hangar,209
+Damaged Building,1097
+Facility,952
+Construction Site,1222
+Vehicle Lot,4266
+Helipad,125
+Storage Tank,1712
+Shipping container lot,2379
+Shipping Container,1589
+Pylon,374
+Tower,85
