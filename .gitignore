@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+object_distribution_csvs
+train_images
+val_images
+*.geojson
+structurecount.txt
